@@ -37,6 +37,11 @@ Created By Taehyun Dev.
 
 ![캡처_2020_03_08_01_47_57_961](https://user-images.githubusercontent.com/61714078/76147416-5e0b6500-60df-11ea-8454-16734544d81c.png)
 
+# 확진자 발생 알림
+ *음성 및 알림으로 신규확진자를 안내합니다.
+
+![캡처_2020_03_08_02_28_45_35](https://user-images.githubusercontent.com/61714078/76147921-995c6280-60e4-11ea-9540-af2dc83c760f.png)
+
 # 환경 설정 
  *환경설정이 가능합니다.
 
