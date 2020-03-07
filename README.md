@@ -1,7 +1,7 @@
 # corona-alja-2.0
 Corona-Alja is Corona Data Informing system based on Java. Used JavaFx for UI.
 
-코로나-알자는 한국의 코로나19 데이터를 신속하고 정확하게 제공하는 시스템 입니다.
+코로나-알자는 한국의 코로나19 데이터를 신속하고 정확하게 제공하는 자바 기반의 프로그램 입니다.
 
 Created By Taehyun Dev.
 
