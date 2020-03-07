@@ -48,4 +48,10 @@ Created By Taehyun Dev.
  *Thread Pool을 사용하여 시스템을 최적화 했습니다.
  
  *많은 UI개선과 애니메이션 사용으로 유저 친화력을 개선했습니다.
+ 
+ # 다운로드(Download)
+  *EXE: https://drive.google.com/open?id=1Jp2BjfzTxx7wbqUOJbZF8Gh-TdIrYeAi
+  
+  *Jar: https://drive.google.com/open?id=1yN0piybTv3n2-YC0NcbjxPuanXGu2YPO
+ 
 
