@@ -16,3 +16,4 @@ Created By Taehyun Dev.
 2. 코로나맵 사이트(https://coronamap.site/)를 통한 실시간 코로나 맵을 제공합니다.
 3. 막대 그래프와 원 그래프를 통해 한눈에 들어오는 통계를 제공합니다.
 4. 애니메이션과 디테일을 살렸습니다.
+![캡처_2020_03_08_01_47_50_661](https://user-images.githubusercontent.com/61714078/76147375-0967ea00-60df-11ea-9e2c-49b78c1c0c42.png)
