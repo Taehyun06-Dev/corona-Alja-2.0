@@ -42,3 +42,8 @@ Created By Taehyun Dev.
 
 ![캡처_2020_03_08_01_48_00_643](https://user-images.githubusercontent.com/61714078/76147428-7aa79d00-60df-11ea-8439-a357e35233a3.png)
 
+# 패치사항
+ *데이터 처리 관련 로직을 개선하였습니다.
+ *Thread Pool을 사용하여 시스템을 최적화 했습니다.
+ *많은 UI개선과 애니메이션 사용으로 유저 친화력을 개선했습니다.
+
